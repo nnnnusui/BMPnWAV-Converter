@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: kotlin-stdlib.jar kotlin-reflect.jar kotlin-test.jar kotli
+ n-stdlib-jdk7.jar kotlin-stdlib-jdk8.jar src.zip javafx-swt.jar javaf
+ x.web.jar javafx.base.jar javafx.fxml.jar javafx.media.jar javafx.swi
+ ng.jar javafx.controls.jar javafx.graphics.jar tornadofx-1.7.18.jar
+Main-Class: com.github.nnnnusui.HelloApp
+

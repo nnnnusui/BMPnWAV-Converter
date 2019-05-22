@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="idea:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/idea_jar</output-path>
+    <root id="root">
+      <element id="archive" name="idea.jar">
+        <element id="module-output" name="idea" />
+      </element>
+      <element id="library" level="project" name="KotlinJavaRuntime" />
+      <element id="library" level="application" name="openjfx" />
+      <element id="library" level="application" name="tornadofx-1.7.18" />
+    </root>
+  </artifact>
+</component>
